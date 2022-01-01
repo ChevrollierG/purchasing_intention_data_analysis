@@ -1,4 +1,7 @@
 # purchasing_intention_data_analysis
+## by Guillaume Chevrollier and Lisa Cluzel 
+
+### The project
 
 This project concerns the dataset 'Online Shoppers Purchasing Intention' that can be found here: https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset  
 
@@ -9,6 +12,10 @@ The project also includes a Flask API for deployment, see after for more informa
 
 A report is also given in PDF format.
 
+### Conclusion
+
+After going through many models and trying different combinations of hyperparmeters and features, the best model was Boosting. We obtained an accuracy of 90.27%.
+Many models had significantly good performances too like other kinds of trees, Neural Networks or even Logistic Regression.
 
 #### To launch the API, you need to :  
 
