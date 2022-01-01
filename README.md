@@ -15,7 +15,7 @@ A report is also given in PDF format.
 ### Conclusion
 
 After going through many models and trying different combinations of hyperparmeters and features, the best model was Boosting. We obtained an accuracy of 90.27%.
-Many models had significantly good performances too like other kinds of trees, Neural Networks or even Logistic Regression.
+Other models had significantly close performances like other kinds of trees, Neural Networks or even Logistic Regression.
 
 #### To launch the API, you need to :  
 
