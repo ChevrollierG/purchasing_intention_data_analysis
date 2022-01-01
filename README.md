@@ -1,6 +1,6 @@
 # purchasing_intention_data_analysis
 
-## To launch the API, you need to :  
+#### To launch the API, you need to :  
 
 -install the 2.0.2 version of Flask and Pandas.  
 -you need to stock the directories "templates" and "static" at the same place than the file "app.py".  
