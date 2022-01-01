@@ -1,5 +1,15 @@
 # purchasing_intention_data_analysis
 
+This project concerns the dataset 'ONline Shoppers Purchasing intention that can be found here: https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset  
+
+The project contains a preliminary data cleaning, data exploration, dimensionality reduction, data preprocessing, data modeling.  
+All those can be found in the jupyter notebook.
+
+The project also includes a Flask API for deployment, see after for more information.  
+
+A report is also given in PDF format.
+
+
 #### To launch the API, you need to :  
 
 -install the 2.0.2 version of Flask and Pandas.  
